@@ -261,31 +261,7 @@
       "password": "$2a$10$I2cl13jBwN8pykdH7M/lf.7b6AF6sM5xTPGe9IwoiDuzKImGL1/u2",
       "name": "aaa",
       "id": 1
-    },
-    {
-      "email": "xyz@gmail.com",
-      "password": "$2a$10$dVvG9p6cJLyynbBe9/lne.0oPgygyVH90pCFMsDgXOkvJcDx5nmmO",
-      "name": "aaa",
-      "id": 2
-    },
-    {
-      "email": "xaayz@gmail.com",
-      "password": "$2a$10$eNq1VxaiFpzT4UzumRxTD.3FpIOcmaeaMIWWP/46qFwyrphSm2WvW",
-      "name": "aaa",
-      "id": 3
-    },
-    {
-      "email": "xxz@gmail.com",
-      "password": "$2a$10$WdRKR5AUnzzIGgEfwZkpI.bKH1Vj3vQKNChKB8C1ae5aV.9waEU9O",
-      "name": "xyz",
-      "id": 4
-    },
-    {
-      "email": "rrr@gmail.com",
-      "password": "$2a$10$.3QnfHwFGxWKGYeAW77O6.7eB52kNMX4WiVtQCyzsIAhF5RKSrks.",
-      "name": "rrr",
-      "id": 5
-    }
+    }  
   ],
   "orders": []
 }
