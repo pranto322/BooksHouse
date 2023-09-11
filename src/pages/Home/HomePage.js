@@ -1,7 +1,8 @@
 import { useTitle } from "../../hooks/useTitle";
 import { Hero } from "./components/Hero";
-import { FeaturedProducts } from "./components/FeaturedProducts";
 import { Testimonials } from "./components/Testimonials";
+import { FeaturedProducts } from "./components/FeaturedProducts";
+
 
 
 export const HomePage = () => {
