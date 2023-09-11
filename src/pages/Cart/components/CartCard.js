@@ -5,12 +5,12 @@ export const CartCard = ({product}) => {
   const { removeFromCart } = useCart();
 
   return (
-    <div className="flex flex-wrap justify-between border-b dark:border-slate-700 max-w-4xl m-auto p-2 mb-5 ">
-      <div className="flex">
+    <div className="flex flex-wrap justify-between items-center border-b dark:border-slate-700 max-w-4xl m-auto p-2 mb-5 ">
+      <div className="flex items-center">
           <Link to={`products/${product.id}`}>
-            <img className="w-32 rounded" src={product.image_local} alt={product.name} />
+            <img className="w-24 h-28 rounded" src={product.image_local} alt={product.name} />
           </Link>
-          <div className="">
+          <div className="ml-5">
             <Link to={`products/${product.id}`}>
               <p className="text-lg ml-2 dark:text-slate-200">{product.name}</p>
             </Link>            
